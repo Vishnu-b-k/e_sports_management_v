@@ -1,0 +1,11 @@
+  body {
+      font-family: 'Orbitron', sans-serif;
+    }
+    .active-time {
+      @apply bg-blue-600 border-blue-400 text-white;
+      box-shadow: 0 0 10px rgba(59, 130, 246, 0.8);
+    }
+    .glow-text {
+      text-shadow: 0 0 5px rgba(59, 130, 246, 0.8);
+    }
+  
